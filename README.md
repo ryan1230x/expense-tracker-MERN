@@ -30,7 +30,7 @@ $ npm run client
  $ cd client
  $ npm run build
  ```
- ### Prod
+ ### Production
  ```js
  $ npm start
  ```
